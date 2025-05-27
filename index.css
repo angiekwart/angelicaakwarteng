@@ -1026,16 +1026,11 @@
 
   /* Navbar */
   .nav-container {
-    padding: 8px 10px;
+    padding: 10px;
     flex-wrap: wrap;
     max-width: 480px;
     min-width: 400px;
     position: sticky;
-  }
-
-  .logo {
-    height: 40px;
-    width: 40px;
   }
 
   .nav-links {
@@ -1136,7 +1131,7 @@
     height: 200px;
     width: 200px;
     font-size: 4rem;
-    margin: 0 auto 30px;
+/*     margin: 0 auto 30px; */
     margin-left: 50px;
   }
 
