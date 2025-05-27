@@ -1214,6 +1214,7 @@
 
   .project-content {
     padding: 20px;
+    margin-bottom: 50px;
   }
 
   .project-title {
@@ -1255,9 +1256,14 @@
   }
 
   /* Contact */
+  .also{
+    display: block;
+  }
+
   .contact-container {
     gap: 30px;
     flex-wrap: wrap;
+    width: 95vw;
   }
 
   .contact-form {
@@ -1265,22 +1271,6 @@
     margin: 0 5px;
     flex-wrap: wrap;
   }
-
-  /* .form-input,
-  .form-textarea {
-    padding: 10px 12px;
-    font-size: 0.95rem;
-  }
-
-  .form-textarea {
-    min-height: 120px;
-  }
-
-  .submit-button {
-    width: 100%;
-    padding: 12px 20px;
-    font-size: 0.95rem;
-  } */
 
   .contact-info {
     padding: 20px;
