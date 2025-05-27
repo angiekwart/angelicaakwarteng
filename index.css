@@ -1076,7 +1076,8 @@
   .hero h3 {
     font-size: 1.54rem;
     margin-top: 5px;
-      width: 380px;
+    width: 380px;
+    margin-left: -20px;
       /*display: none;*/
   }
 
