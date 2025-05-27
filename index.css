@@ -1036,6 +1036,10 @@
   }
 
   /* Hero Section */
+.me{
+    display: block;
+}
+    
   .hero-content {
     padding: 80px 15px 40px;
     height: auto;
