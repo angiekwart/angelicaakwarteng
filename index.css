@@ -1091,7 +1091,7 @@
     max-width: 180px;
     padding: 12px 20px;
     font-size: 0.95rem;
-    margin: 0;
+    margin-left: 10px;
   }
 
   /* Main Content */
@@ -1127,7 +1127,6 @@
     height: 200px;
     width: 200px;
     font-size: 4rem;
-/*     margin: 0 auto 30px; */
     margin-left: 50px;
   }
 
