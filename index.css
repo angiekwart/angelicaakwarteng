@@ -760,7 +760,7 @@
 }
 
 /* Tablets */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   /* Enhanced Navbar */
   .navbar {
     padding: 10px 0;
@@ -1012,7 +1012,7 @@
   .footer-info h4 {
     font-size: 1.3rem;
   }
-}
+} */
 
 
 /* Small Smartphone Styles - max-width: 480px */
