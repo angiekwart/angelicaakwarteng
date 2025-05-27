@@ -1078,7 +1078,7 @@
   }
 
   .hero-buttons {
-    margin: 25px 0 0 0;
+    padding: 25px 0 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1089,7 +1089,7 @@
   .secondary-button {
     width: 50%;
     max-width: 180px;
-    padding: 12px 20px;
+/*     padding: 12px 20px; */
     font-size: 0.95rem;
     padding-left: 10px;
   }
@@ -1127,7 +1127,7 @@
     height: 200px;
     width: 200px;
     font-size: 4rem;
-    margin-left: 50px;
+    padding-left: 50px;
   }
 
   .about-text h3 {
