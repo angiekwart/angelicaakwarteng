@@ -1022,6 +1022,8 @@
     font-size: 14px;
     line-height: 1.5;
     max-width: 480px;
+    width: 480px;
+    flex-wrap: wrap;
   }
 
   /* Navbar */
@@ -1031,6 +1033,7 @@
     max-width: 480px;
     min-width: 400px;
     width: 480px;
+    position: absolute;
   }
 
   .nav-links {
@@ -1082,7 +1085,7 @@
   }
 
   .hero-buttons {
-    margin: 15px 0 0 0;
+    margin: 25px 0 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
