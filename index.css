@@ -1021,6 +1021,7 @@
   .nav-container {
     padding: 10px 15px;
     flex-wrap: wrap;
+    max-width: 480px;
   }
 
   .logo {
@@ -1076,7 +1077,7 @@
 
   .cta-button,
   .secondary-button {
-    width: 90%;
+    width: 50%;
     max-width: 180px;
     padding: 12px 20px;
     font-size: 0.95rem;
