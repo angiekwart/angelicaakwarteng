@@ -866,6 +866,7 @@
     font-size: 1rem;
     text-align: center;
     padding-left: 20px;
+      display: none;
   }
 
   /* Enhanced Main Content */
@@ -1064,7 +1065,7 @@
   .hero h2 {
     font-size: 1.95rem;
     margin-bottom: 5px;
-      width: 280px;
+      width: 300px;
       /*display: none;*/
   }
 
