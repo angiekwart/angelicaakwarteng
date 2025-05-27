@@ -833,11 +833,13 @@
     font-size: 1.4rem;
     margin-bottom: 10px;
     line-height: 1.3;
+      display: none;
   }
 
   .hero h3 {
     font-size: 1rem;
     margin-bottom: 20px;
+      display: none;
   }
   
   .hero-text {
@@ -1062,11 +1064,13 @@
   .hero h2 {
     font-size: 0.95rem;
     margin-bottom: 5px;
+      display: none;
   }
 
   .hero h3 {
     font-size: 0.4rem;
     margin-top: 5px;
+      display: none;
   }
 
   .hero-text {
