@@ -1047,8 +1047,8 @@
     display: block;
     justify-items: center;
     align-items: center;
-    margin-left: -20px;
-    padding-left: 30px;
+    /*margin-left: -20px;
+    padding-left: 30px;*/
 }
     
   .hero-content {
@@ -1062,7 +1062,7 @@
   }
 
   .hero h2 {
-    font-size: 0.95rem;
+    font-size: 1.95rem;
     margin-bottom: 5px;
       width: 200px;
       /*display: none;*/
