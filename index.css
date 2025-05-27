@@ -1033,7 +1033,7 @@
     padding: 10px 5px;
     flex-wrap: wrap;
     position: sticky;
-    background-color: white;
+    background-color: inherit;
   }
 
   .nav-links {
