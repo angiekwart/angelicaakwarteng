@@ -1032,7 +1032,7 @@
   .nav-container {
     padding: 10px 5px;
     flex-wrap: wrap;
-    position: sticky;
+    /*position: sticky;*/
     background-color: inherit;
   }
 
@@ -1126,12 +1126,12 @@
   }
 
   /* About Section */
-  .about-image {
+ /* .about-image {
     height: 200px;
     width: 200px;
     font-size: 4rem;
     padding-left: 50px;
-  }
+  }*/
 
   .about-text h3 {
     font-size: 1.4rem;
