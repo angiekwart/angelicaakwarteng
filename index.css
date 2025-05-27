@@ -1034,8 +1034,12 @@
     padding: 10px 5px;
     flex-wrap: wrap;
     /*position: sticky;*/
-    background-color: inherit;
+    
   }
+
+  .navbar{
+        background-color: inherit;
+    }
 
   .nav-links {
     gap: 10px;
@@ -1065,12 +1069,12 @@
   .hero h2 {
     font-size: 1.95rem;
     margin-bottom: 5px;
-      width: 300px;
+      width: 350px;
       /*display: none;*/
   }
 
   .hero h3 {
-    font-size: 1.04rem;
+    font-size: 1.54rem;
     margin-top: 5px;
       /*display: none;*/
   }
