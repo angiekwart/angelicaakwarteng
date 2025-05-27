@@ -1051,12 +1051,12 @@
   }
 
   .hero h2 {
-    font-size: 1.1rem;
-    margin-bottom: 10px;
+    font-size: 0.95rem;
+    margin-bottom: 5px;
   }
 
   .hero h3 {
-    font-size: 0.9rem;
+    font-size: 0.4rem;
     margin-top: 5px;
   }
 
@@ -1067,7 +1067,7 @@
   }
 
   .hero-buttons {
-    margin: 20px 0 0 0;
+    margin: 10px 0 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1077,8 +1077,8 @@
   .cta-button,
   .secondary-button {
     width: 90%;
-    max-width: 280px;
-    padding: 14px 20px;
+    max-width: 180px;
+    padding: 12px 20px;
     font-size: 0.95rem;
     margin: 0;
   }
