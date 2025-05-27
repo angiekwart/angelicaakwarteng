@@ -1044,7 +1044,7 @@
 
   /* Hero Section */
 .me{
-    display: inline-block;
+    display: block;
     justify-items: center;
     align-items: center;
     margin-left: -20px;
@@ -1064,6 +1064,7 @@
   .hero h2 {
     font-size: 0.95rem;
     margin-bottom: 5px;
+      width: 200px;
       /*display: none;*/
   }
 
