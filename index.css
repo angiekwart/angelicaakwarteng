@@ -760,7 +760,7 @@
 }
 
 /* Tablets */
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
   /* Enhanced Navbar */
   .navbar {
     padding: 10px 0;
@@ -1012,7 +1012,7 @@
   .footer-info h4 {
     font-size: 1.3rem;
   }
-} */
+} 
 
 
 /* Small Smartphone Styles - max-width: 480px */
@@ -1030,7 +1030,7 @@
     flex-wrap: wrap;
     max-width: 480px;
     min-width: 400px;
-    position: sticky;
+    width: 480px;
   }
 
   .nav-links {
@@ -1082,7 +1082,7 @@
   }
 
   .hero-buttons {
-    margin: 10px 0 0 0;
+    margin: 15px 0 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
