@@ -1053,7 +1053,7 @@
 }
     
   .hero-content {
-    padding: 80px 15px 40px;
+    padding: 50px 10px 30px;
     height: auto;
     min-height: 100vh;
     display: flex;
@@ -1135,7 +1135,8 @@
     height: 200px;
     width: 200px;
     font-size: 4rem;
-    margin: 5 auto 30px;
+    margin: 0 auto 30px;
+    margin-left: 50px;
   }
 
   .about-text h3 {
