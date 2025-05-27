@@ -1047,6 +1047,9 @@
   /* Hero Section */
 .me{
     display: inline-block;
+    justify-items: center;
+    align-items: center;
+    margin-left: 20px;
 }
     
   .hero-content {
